@@ -31,7 +31,7 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
 
 ## Home View
-https://github.com/ayushd1108/Hospitality-Analysis/blob/main/Home.png
+![Home Page](https://github.com/ayushd1108/Hospitality-Analysis/blob/main/Home.png)
 
 ## Live Dashboard
 [Link](https://app.powerbi.com/view?r=eyJrIjoiYmM0NGM0NmUtMDUyNS00MzQ4LTk2ZDMtODgyZmFlNmQxNDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
