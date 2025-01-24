@@ -8,17 +8,8 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 
 ## Key Deliverables
 
-### Performance Overview
-- Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
-- Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
-
-### Revenue Overview
-- Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
-- Insights aimed at optimizing sales strategies and improving revenue streams.
-
-### Booking Overview
-- Examination of booking patterns, cancellations, and guest behavior.
-- Actionable insights to enhance operational efficiency and drive revenue growth.
+## Home
+Provides a comprehensive snapshot of key performance indicators, including revenue, RevPAR (Revenue per Available Room), and occupancy percentage. It also includes detailed metrics like average daily rates, cancellation percentage, and other crucial factors that offer valuable insights into the hotel's performance.
 
 ## Skills and Technologies Used
 
