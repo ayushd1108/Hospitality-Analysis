@@ -34,5 +34,7 @@ Crafting these views required a blend of analytical prowess and creativity, resu
 ![Home Page](https://github.com/ayushd1108/Hospitality-Analysis/blob/main/Home.png)
 
 ## Live Dashboard
-[Link](https://app.powerbi.com/view?r=eyJrIjoiYmM0NGM0NmUtMDUyNS00MzQ4LTk2ZDMtODgyZmFlNmQxNDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Dash 
+BoardLink](https://app.powerbi.com/view?r=eyJrIjoiYmM0NGM0NmUtMDUyNS00MzQ4LTk2ZDMtODgyZmFlNmQxNDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 [Portfolio link](https://codebasics.io/portfolio/Ayush-Dongre)
